@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LLXPodTestD_Tests' do
+  pod 'LLXPodTestD', :path => '../'
+  
+  
+end
